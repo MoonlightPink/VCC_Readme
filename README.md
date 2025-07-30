@@ -40,9 +40,9 @@ https://www.youtube.com/watch?v=GGrnsCCDLhU
 
 ---
 
-||VSTプラグイン|バ美声|VCClient (RVCv2)|VCClient (Beatrice_v2)|SuperToneShift|
+||VSTプラグイン系|バ美声|VCClient (RVCv2)|VCClient (Beatrice_v2)|SuperToneShift|
 |---|---|---|---|---|---|
-|技術|ピッチフォルマント変換|ピッチフォルマント変換|Retrieval-based AI変換エンジン|軽量・低遅延AI変換エンジン|独自AIエンジン|
+|技術|ほとんどがピッチフォルマント変換系|ピッチフォルマント変換|Retrieval-based AI変換エンジン|軽量・低遅延AI変換エンジン|独自AIエンジン|
 |ボイトレ|地声練習必須|地声練習必須|地声でもそれなり|地声でもそれなり|地声でもそれなり|地声でもそれなり|
 |遅延|ほとんど無し|ほとんど無し|0.5秒～1秒程度|0.1秒程度|0.1秒程度？|
 |ハードウェア|CPUなど|CPU|GPU|CPU|CPU|
