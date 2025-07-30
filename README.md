@@ -6,9 +6,9 @@
 
 ---
 
-YouTube 【AIボイチェン】VC Clientで女の子になろう！Ver2対応版リメイク【RVC】
+YouTube 楓怜瑠那 / Karen Runa CH. [2024年8月最新版] この動画で全て解決! RVCボイスチェンジャーの導入から使い方まで詳しく解説!
 
-https://www.youtube.com/watch?v=nCVoPz3BQXE
+https://www.youtube.com/watch?v=9cveuEJwCmE
 
 ---
 
